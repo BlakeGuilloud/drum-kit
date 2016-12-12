@@ -1,1 +1,1 @@
-## VanillaJS Javascript Drum Kit. 
+## VanillaJS drum kit
